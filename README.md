@@ -21,6 +21,12 @@ A modern full-stack expense tracking application built with Flask and React.
 
 ---
 
+## 🌐 Live Demo
+
+**URL:** [https://rupyatrack.vercel.app](https://rupyatrack.vercel.app)  
+
+---
+
 ## 🛠 Tech Stack
 
 **Frontend:** React 18.2 • Vite • Tailwind CSS • React Query • Zustand • Axios • React Hook Form
